@@ -1,0 +1,6 @@
+flask
+gunicorn
+spacy
+PyPDF2
+docx
+rapidfuzz
